@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vw1ms4ipgs8ce0w9?svg=true)](https://ci.appveyor.com/project/iam-mholle/licenseheadermanager)
+
 # License Header Manager for Visual Studio
 
 
